@@ -1,3 +1,4 @@
+openCV
 numpy
 scipy
 PIL
